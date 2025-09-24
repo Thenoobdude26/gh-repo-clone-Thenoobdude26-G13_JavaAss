@@ -1,0 +1,6 @@
+appt001,cust001,doc001,04-09-2025,12:00,Paid,500.0
+appt002,cust001,doc003,05-09-2025,1:31,Paid,600.0
+appt003,cust004,doc001,05-12-2025,10:04,Paid,500.0
+appt004,cust001,doc001,05-09-2025,13:00,Assigned,0.0
+appt005,cust004,doc003,06-09-2025,12:33,Assigned,0.0
+appt006,cust002,doc003,09-09-2025,11:10,Paid,300.0

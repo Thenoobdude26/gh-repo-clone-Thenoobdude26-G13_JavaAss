@@ -1,0 +1,5 @@
+CustID,PaymentID,Date,Time,Amount,Status
+Cust004,P001,30/08/2025,14:20,150.00,Completed
+Cust004,P002,22/08/2025,16:30,200.00,Pending
+Cust004,P003,30/08/2025,18:40,140.00,Completed
+Cust004,P004,30/10/2025,13:30,130.00,Pending

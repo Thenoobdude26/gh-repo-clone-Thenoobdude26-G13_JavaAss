@@ -1,0 +1,3 @@
+doc001,docPass1,Tatenda Eben Mchomboh,tatendamchomboh@gmail.com,Lab Technician
+doc002,secureDoc2,Dr. Siti Mariam,siti.mariam@gmail.com,Dermatology
+doc003,medic123,Dr. Lim Wei Han,lim.wei.han@gmail.com,Neurology
