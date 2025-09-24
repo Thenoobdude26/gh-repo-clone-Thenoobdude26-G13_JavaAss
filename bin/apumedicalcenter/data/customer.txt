@@ -1,4 +1,0 @@
-cust001,cust1234,Muhammad Hafiz,muhammad.hafiz@gmail.com,12234556,15/07/2025,
-cust002,helloCust2,Aisyah Binti Rahman,aisyah.rahman@gmail.com,35644839,15/07/2025,
-cust003,myPass3,Lim Jia Wei,lim.jiawei@gmail.com,456789,15/07/2025,
-cust004,mympass,maimoona,maimoona@gmail.com,0987655,15/07/2025
